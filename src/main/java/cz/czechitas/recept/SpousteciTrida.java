@@ -74,7 +74,7 @@ public class SpousteciTrida {
         plech.preberSiObsah(cervenaMiska);
 
         // posypat ovocem
-        for(int i = 0; i < 50; i++) {
+        for (int i = 0; i < 50; i++) {
             plech.posypSeKusem(ovoce);
         }
 
